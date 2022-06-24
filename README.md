@@ -22,7 +22,7 @@ Assumptions for Markov Chain :
 # Program :
 ```python
 # Developed by: Aditya JV
-# Reg no:212220230002
+# Register Number:212220230002
 
 
 import numpy as np
